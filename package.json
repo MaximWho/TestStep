@@ -1,0 +1,22 @@
+{
+  "name": "teststep22",
+  "version": "1.0.0",
+  "description": "dessss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximWho/TestStep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximWho/TestStep/issues"
+  },
+  "homepage": "https://github.com/MaximWho/TestStep#readme",
+  "dependencies": {
+    "country-flag-icons": "^1.5.7"
+  }
+}
